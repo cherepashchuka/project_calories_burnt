@@ -9,8 +9,6 @@ pandas, numpy, matplotlib, optuna, sklearn, lightgbm, catboost
 
 MAE: 1.9793129448504605
 
-# API
+# Telegram bot
 In progress
 
-# Web application
-In progress
