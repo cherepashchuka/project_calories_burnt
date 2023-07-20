@@ -7,7 +7,7 @@ In this project, several machine learning algorithms, such as linear regression 
 
 pandas, numpy, matplotlib, optuna, sklearn, lightgbm, catboost
 
-MAE - 1.9793129448504605
+MAE: 1.9793129448504605
 
 # API
 In progress
