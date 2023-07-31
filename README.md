@@ -5,9 +5,9 @@ With this app you will be able to estimate how many calories you would burn duri
 ### burn_calories_model.ipynb
 In this project, several machine learning algorithms, such as linear regression and gradient boosting, were trained and analyzed.
 
-pandas, numpy, matplotlib, optuna, sklearn, lightgbm, catboost
+**Stack:*** pandas, numpy, matplotlib, optuna, sklearn, lightgbm, catboost
 
-MAE: 1.9793129448504605
+**MAE:** 1.9793129448504605
 
 # Telegram bot
 In progress
